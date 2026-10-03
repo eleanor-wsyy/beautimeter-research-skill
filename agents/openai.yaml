@@ -1,4 +1,4 @@
 interface:
   display_name: "Beautimeter Research"
-  short_description: "Compare two images using 15 living-structure properties"
-  default_prompt: "Use $beautimeter-skill to compare these two images through the 15 properties of living structure."
+  short_description: "Compare two images; show two scores out of 15"
+  default_prompt: "Use $beautimeter-skill to score these two images. Return only the two totals out of 15."
